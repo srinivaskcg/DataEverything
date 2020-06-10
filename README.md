@@ -28,3 +28,5 @@
   * https://medium.com/free-code-camp/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24
 * BERT:
   * https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+* Key word Extraction:
+  * https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34
