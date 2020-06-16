@@ -6,6 +6,9 @@
 
 * https://medium.com/bigid-on-id-privacy/building-a-single-source-of-data-truth-across-privacy-security-and-governance-bigid-a7dce8dc3360
 
+###### Data Deletion:
+* https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
+
 ###### Privacy Acts (GDPR/CCPA):
 
 * Entity Matching: 
